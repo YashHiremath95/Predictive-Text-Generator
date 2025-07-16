@@ -1,0 +1,17 @@
+This is a sample dataset for training the text prediction model.
+
+Good morning! How are you today? I hope you have a great day ahead.
+Don't forget to take a break and enjoy your lunch. Stay hydrated and keep smiling.
+In the evening, relax and spend time with your loved ones. Have a peaceful night and sweet dreams.
+
+Life is a journey, not a race. Take one step at a time and enjoy the little moments.
+Remember to be kind to yourself and others. A smile can brighten someone's day.
+Every day is a new opportunity to learn, grow, and make a difference.
+
+Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+Challenges are what make life interesting, and overcoming them is what makes life meaningful.
+Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.
+
+The best way to predict the future is to create it. Dream big, work hard, and stay focused.
+Mistakes are proof that you are trying. Learn from them and keep moving forward.
+Every sunset brings the promise of a new dawn. Embrace each day with hope and positivity.
